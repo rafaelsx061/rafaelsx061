@@ -22,4 +22,4 @@ Meu curso termina este ano e no próximo, espero conquistar minha primeira oport
 ## 📈 Projetos em andamento
 - 🏗️ **Sistema para Parque de Diversões** – integração de banco de dados com interface feita em Kivy  
 - ⚙️ **Projetos de estudo com Python** – automações, interfaces gráficas e miniaplicativos
-- 📏 **Regua** - Projeto Final do meu curso - Incluindo todas bibliotecas 
+- 📏 **Regua** - Projeto Final do meu curso - Incluindo todas bibliotecas aprendidas
