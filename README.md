@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Rafael!
+# 👤 Olá, eu sou o Rafael!
 
 Sou um estudante de Desenvolvimento de Sistemas com 17 anos, atualmente cursando o ensino médio e curso técnico na área.  
 Meu curso termina este ano e no próximo, espero conquistar minha primeira oportunidade como jovem aprendiz na área de tecnologia 💻
@@ -11,7 +11,7 @@ Meu curso termina este ano e no próximo, espero conquistar minha primeira oport
 - 🎯 Objetivo: Ingressar no mercado de trabalho e continuar evoluindo como desenvolvedor
   
 
-## 🛠️ Tecnologias que estou aprendendo
+## 🦾 Tecnologias que estou aprendendo
 - **Linguagens:** Python, JavaScript 
 - **Front-end:** HTML, CSS, Kivy  
 - **Back-end:** Django
@@ -19,7 +19,7 @@ Meu curso termina este ano e no próximo, espero conquistar minha primeira oport
 - **Versionamento:** Git e GitHub
 - 
 
-## 📈 Projetos em andamento
+## 📊 Projetos em andamento
 - 🏗️ **Sistema para Parque de Diversões** – integração de banco de dados com interface feita em Kivy  
 - ⚙️ **Projetos de estudo com Python** – automações, interfaces gráficas e miniaplicativos
 - 📏 **Regua** - Projeto Final do meu curso - Incluindo todas bibliotecas aprendidas
