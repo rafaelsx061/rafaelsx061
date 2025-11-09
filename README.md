@@ -17,7 +17,7 @@ Meu curso termina este ano e no próximo, espero conquistar minha primeira oport
 - **Back-end:** Django
 - **Banco de Dados:** MySQL, SQLite  
 - **Versionamento:** Git e GitHub
-- 
+
 
 ## 📊 Projetos em andamento
 - 🏗️ **Sistema para Parque de Diversões** – integração de banco de dados com interface feita em Kivy  
