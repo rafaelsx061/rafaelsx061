@@ -1,25 +1,43 @@
-# 👤 Olá, eu sou o Rafael!
+<br clear="both">
 
-Sou um estudante de Desenvolvimento de Sistemas com 17 anos, atualmente cursando o ensino médio e curso técnico na área.  
-Meu curso termina este ano e no próximo, espero conquistar minha primeira oportunidade como jovem aprendiz na área de tecnologia 💻
+<h1 align="center">👤 Olá, eu sou o Rafael!</h1>
 
+###
 
-## 🚀 Sobre mim
-- 🎓 Cursando Técnico em Desenvolvimento de Sistemas  
-- 💡 Gosto de aprender novos aprendizados 
-- 🧠 Interesse em **programação** e  **desenvolvimento web**   
-- 🎯 Objetivo: Ingressar no mercado de trabalho e continuar evoluindo como desenvolvedor
-  
+<h2 align="center">Sobre mim</h2>
 
-## 🦾 Tecnologias que estou aprendendo
-- **Linguagens:** Python, JavaScript 
-- **Front-end:** HTML, CSS, Kivy  
-- **Back-end:** Django
-- **Banco de Dados:** MySQL, SQLite  
-- **Versionamento:** Git e GitHub
+###
 
+<p align="left">Sou programador Front-End iniciante, formado no Técnico em Desenvolvimento de Sistemas pelo SENAC DF. Sou apaixonado por tecnologia e desenvolvimento de software, com grande interesse em aprendizado contínuo e evolução profissional. Busco uma oportunidade de estágio para adquirir experiência prática, desenvolver minhas habilidades técnicas e construir minha trajetória profissional rumo à primeira oportunidade como Desenvolvedor Júnior.</p>
 
-## 📊 Projetos em andamento
-- 🏗️ **Sistema para Parque de Diversões** – integração de banco de dados com interface feita em Kivy  
-- ⚙️ **Projetos de estudo com Python** – automações, interfaces gráficas e miniaplicativos
-- 📏 **Regua** - Projeto Final do meu curso - Incluindo todas bibliotecas aprendidas
+###
+
+<p align="left">- 🎓 Formado em técnico em Desenvolvimento de Sistemas<br>- 📚 Estudando JavaScript<br>- 🎯 Gosto de sempre está aprendendo coisas novas</p>
+
+###
+
+<h2 align="left">Skiils</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelsx061/rafaelsx061/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelsx061/rafaelsx061/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rafaelsx061/rafaelsx061/output/pacman-contribution-graph.svg">
+</picture>
+
+###
