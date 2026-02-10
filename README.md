@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Sobre mim</h2>
+<h2 align="left">💻 Sobre mim</h2>
 
 ###
 
@@ -33,6 +33,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelsx061/rafaelsx061/output/pacman-contribution-graph-dark.svg">
